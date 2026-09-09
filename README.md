@@ -9,33 +9,32 @@
  I love building projects and solving problems with code
  Currently learning Python, Web Development & Data Structures
  Interested in software development, data analytics, and building useful projects
- Portfolio: hiinishant.online
- LinkedIn: @hinishant
- GitHub: @hiinishant
+- [Portfolio](https://hiinishant.online)
+- [LinkedIn](https://www.linkedin.com/in/hinishant)
  
 ## Languages
 
-Python
-JavaScript
+Python,
+JavaScript,
 C++
 
 ## Web Development
 
-HTML
-CSS
-JavaScript
-Node.js
+HTML,
+CSS,
+JavaScript,
+Node.js,
 Express.js
 
 ## Tools & Technologies
 
-Git
-GitHub
-VS Code
+Git,
+GitHub,
+VS Code,
 MongoDB
 
 ## GitHub Stats
 
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiinishant&show_icons=true&theme=dark&hide_border=true)
+![Nishant's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hiinishant&show_icons=true&theme=dark)
 
 ---
